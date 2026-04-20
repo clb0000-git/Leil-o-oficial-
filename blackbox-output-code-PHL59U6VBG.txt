@@ -1,0 +1,11 @@
+leilao-veiculos/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   ├── auth.js
+│   ├── auction.js
+│   └── admin.js
+└── data/
+    └── vehicles.json
